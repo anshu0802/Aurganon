@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html >
+
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo-450x177.html" type="image/x-icon">
+  <meta name="description" content="Website Builder Description">
+  <title>Aurganon'18</title>
+  <link rel="icon" type="image/png" href="favicon-96x96.png" />
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/gallery/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Monoton" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+  <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+  <style>
+  .effect-underline:after {
+    content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 100%;
+  border-bottom: 1px solid;
+  margin-top: 10px;
+  opacity: 0;
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: scale(0,1);
+    transform: scale(0,1);
+}
+.textborder
+{
+    color:#fff !important;
+     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    }
+.alignment
+{
+    top: 50vw;
+    }
+
+.effect-underline:hover:after {
+  opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    color: #fff;
+}
+title{
+    color: white;
+}
+.container img {
+    width: 100%;
+    height: auto;
+}
+</style>
+</head>
+<body style="background-image: url(big4.jpg);margin:0; background-repeat:repeat">
+
+<!--<div data-depth="1.6" id="particles-js"></div>
+  <section class="menu cid-qMWsKkuSS4" once="menu" id="menu2-j" >
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm" style="background-color:#0c0b0a;">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="#home">
+                        <img src="logo-1.png" alt="" title="" style="height: 3.8rem;color:#fffdd0">
+                    </a>
+                </span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-4" href="#HOME"></a></spanr>
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+           <strong> 
+            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
+                <li class="nav-item">
+                  <a class="nav-link link display-4" style="color:#f9e12c;text-shadow: 0 0 3px #000;font-family: 'Raleway', sans-serif; font-size: 12px" href="#home">
+                        <strong>HOME</strong></a>
+                </li>
+                <li class="nav-item"><a class="nav-link link display-4" style="color:#f9e12c;text-shadow: 0 0 3px #000;font-family: 'Raleway', sans-serif;font-size: 12px" href="#techevent"><strong>TECH EVENTS</strong></a>
+                </li>
+                <li class="nav-item"><a class="nav-link link display-4" style="color:#f9e12c;text-shadow: 0 0 3px #000;font-family: 'Raleway', sans-serif;font-size: 12px" href="#nontechevent">
+                        <strong>NON-TECH EVENTS</strong></a>
+                </li>
+                <li class="nav-item"><a class="nav-link link display-4" style="color:#f9e12c;text-shadow: 0 0 3px #000;font-family: 'Raleway', sans-serif;font-size: 12px" href="#workshop"><strong>WORKSHOP</strong></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link link display-4" style="color:#f9e12c;text-shadow: 0 0 3px #000;font-family: 'Raleway', sans-serif;font-size: 12px" href="https://forms.zohopublic.com/enthrone/form/Registrationform/formperma/xpMZy0Th61M7AqyCFMDzk6CQ6-THkbIy5WFZ_9EY-eM" target="_blank">
+                       <strong> REGISTER</strong></a>
+                </li>
+                <li class="nav-item"><a class="nav-link link display-4" style="color:#f9e12c;text-shadow: 0 0 3px #000;font-family: 'Raleway', sans-serif;font-size: 12px" href="#sponsor"><strong>SPONSORS&nbsp;</strong></a>
+                </li>
+
+                <li class="nav-item"><a class="nav-link link display-4" style="color:#f9e12c;text-shadow: 0 0 3px #000;font-family: 'Raleway', sans-serif;font-size: 12px" href="#uniq"><strong>UNIQ TECHNOLOGIES&nbsp;</strong></a>
+                </li>
+            </ul>
+            </strong>
+        </div>
+    </nav>
+</section>
+-->
+
+
+
+
+<!--COUNTDOWN START-->
+<section class="countdown2 cid-qXPEDMblFp" id="countdown2-x" style="background-image: url(big4.jpg); background-repeat:repeat" >
+ <!--https://www.youtube.com/watch?v=Falhj7Ded28-->
+    <div class="container" style="">
+        <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2 alignment " style="color:#4a2d08 !important"><strong>
+            Will see you at Aurganon'18</strong></h2>
+        
+    </div>
+    <div class="container pt-5 mt-2">
+        <div class=" countdown-cont align-center p-4">
+            <div class="event-name align-left mbr-white ">
+                <h4 class=" textborder mbr-fonts-style display-5"><strong>at SRM Ramapuram</strong></h4>
+            </div>
+            <div class="countdown align-center py-2 textborder" data-due-date="2018/09/020">
+            </div>
+            <div class="daysCountdown" title="Days"></div>
+            <div class="hoursCountdown" title="Hours" ></div>
+            <div class="minutesCountdown" title="Minutes"></div>
+            <div class="secondsCountdown" title="Seconds"></div>
+            <div class="event-date align-left mbr-white">
+                <h5 class="mbr-fonts-style display-7 textborder"><strong>20th September 2018</strong></h5>
+            </div>
+        </div>
+
+        
+    </div>
+</section>
+<!--COUNDDOWN END-->
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/ytplayer/jquery.mb.ytplayer.min.js"></script>
+  <script src="assets/vimeoplayer/jquery.mb.vimeo_player.js"></script>
+  <script src="assets/mbr-flip-card/mbr-flip-card.js"></script>
+  <script src="assets/masonry/masonry.pkgd.min.js"></script>
+  <script src="assets/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
+  <script src="assets/parallax/jarallax.min.js"></script>
+  <script src="assets/sociallikes/social-likes.js"></script>
+  <script src="assets/countdown/jquery.countdown.min.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  <script src="assets/slidervideo/script.js"></script>
+  <script src="assets/gallery/player.min.js"></script>
+  <script src="assets/gallery/script.js"></script>
+  <script src='../cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js'></script>
+    <script  src="js/index.js"></script>
+</body>
+
+<!-- Mirrored from www.enthrone2k18.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Aug 2018 08:00:22 GMT -->
+</html>
